@@ -28,7 +28,7 @@ The KITE framework operates in four main phases:
 
 4.  **Progressive Training**: A curriculum learning approach that fine-tunes the model on single-document data first, followed by cross-document reasoning data.
 
-    ![Two-Stage Progressive Training](figure/two_stage.png){width="50%"}
+    ![Two-Stage Progressive Training](figure/two_stage.png){:width="50%"}
 
 ## 🛠️ Installation
 
@@ -86,5 +86,6 @@ If you use KITE in your research, please cite our paper:
 ## 📄 License
 
 This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
+
 
 

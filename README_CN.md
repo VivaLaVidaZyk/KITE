@@ -33,11 +33,8 @@ KITE 框架主要包含四个阶段：
 
 ```bash
 git clone https://github.com/yourusername/KITE.git
-cd KITE
-pip install -r requirements.txt
 ```
 
-*注意：需要 PyTorch, Transformers, PEFT, 和 NetworkX。*
 
 ## 🏃 使用方法
 

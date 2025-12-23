@@ -34,11 +34,7 @@ The KITE framework operates in four main phases:
 
 ```bash
 git clone https://github.com/yourusername/KITE.git
-cd KITE
-pip install -r requirements.txt
 ```
-
-*Note: Requires PyTorch, Transformers, PEFT, and NetworkX.*
 
 ## 🏃 Usage
 
@@ -90,3 +86,4 @@ If you use KITE in your research, please cite our paper:
 ## 📄 License
 
 This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
+
